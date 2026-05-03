@@ -1,20 +1,13 @@
-#generated images and outputs
 outputs/
 checkpoints/
 results/grids/
 results/charts/
-
-#large logs
-logs/seeds.json
-logs/training_log.txt
-
-#sensitive data
+logs/
 data/interview_transcripts/
 data/survey_responses/
-
-#python
+*.pt
+*.ckpt
 __pycache__/
 *.pyc
-
-#notebook artefacts
 .ipynb_checkpoints/
+.DS_Store
