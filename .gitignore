@@ -7,6 +7,7 @@ data/interview_transcripts/
 data/survey_responses/
 *.pt
 *.ckpt
+*.safetensors
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
